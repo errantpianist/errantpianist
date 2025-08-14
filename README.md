@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=YuZhouZhang">
 
-<!--
-**errantpianist/errantpianist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;+I'm+Yu+Zhou+Zhang;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<br />
+<!-- about me -->
+<p align="center">
+  I'm a <strong>Software Engineer</strong> 💻 with 1+ years of professional front-end experience,  
+  blending technical expertise with a background as a <strong>Classical Pianist & Composer</strong> 🎹.  
+  <br />
+  <br />
+  💼 Skilled in building responsive, maintainable web applications using modern JavaScript frameworks.  
+  <br />
+  🎓 Holder of a <strong>Master’s in Computing</strong> and multiple music performance degrees, currently pursuing a <strong>BSc in Mathematics and Statistics</strong>.  
+  <br />
+  🌱 Always exploring the intersection of technology, creativity, and quantitative thinking.  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- social handles -->
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/YuZhouZhang" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+
+<hr />
+
+<!-- skills -->
+<h2 align="center">🛠️ Languages - Frameworks - Tools 🛠️</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+     <!-- Languages -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjavascript%2Chtml%2Ccss%2Cpython%2Cgo&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=ts%2Cjavascript%2Chtml%2Ccss%2Cpython%2Cgo&theme=light" />
+      <img src="https://skillicons.dev/icons?i=ts%2Cjavascript%2Chtml%2Ccss%2Cpython%2Cgo&theme=light" alt="Languages" />
+    </picture>
+    <br /><br />
+    <!-- Frameworks & Libraries -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnodejs%2Cexpress%2Cnextjs%2Cjest&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=react%2Cnodejs%2Cexpress%2Cnextjs%2Cjest&theme=light" />
+      <img src="https://skillicons.dev/icons?i=react%2Cnodejs%2Cexpress%2Cnextjs%2Cjest&theme=light" alt="Frameworks & Libraries" />
+    </picture>
+    <br /><br />
+    <!-- Tools & Platforms -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Caws%2Cazure%2Cfirebase%2Cmongodb&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Caws%2Cazure%2Cfirebase%2Cmongodb&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git%2Caws%2Cazure%2Cfirebase%2Cmongodb&theme=light" alt="Tools & Platforms" />
+    </picture>
+  </a>
+</p>
