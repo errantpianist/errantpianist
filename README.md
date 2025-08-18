@@ -11,14 +11,12 @@
 <br />
 <!-- about me -->
 <p align="center">
-  I'm a <strong>Software Engineer</strong> 💻 whoe blends technical expertise with a background as a <strong>Classical Pianist & Composer</strong> 🎹.  
+  👾 Hi! I'm <strong>Ezoh</strong>, a developer who enjoys bringing ideas to life with code. 
   <br />
   <br />
-  💼 Skilled in building responsive, maintainable web applications using modern JavaScript frameworks.  
+  💼 Skilled in building responsive, maintainable web applications using modern JavaScript frameworks + Typescript.  
   <br />
-  🎓 Holder of a <strong>Master’s in Computing</strong> and multiple music performance degrees, currently pursuing a <strong>BSc in Mathematics and Statistics</strong>.  
-  <br />
-  🌱 Always exploring the intersection of technology, creativity, and quantitative thinking.  
+  🎓 Holder of a <strong>Master’s in Computing</strong> and degrees in Piano Performance, currently pursuing a <strong>BSc in Mathematics and Statistics</strong>.  
 </p>
 
 <!-- social handles -->
