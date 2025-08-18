@@ -11,8 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  I'm a <strong>Software Engineer</strong> 💻 with 1+ years of professional front-end experience,  
-  blending technical expertise with a background as a <strong>Classical Pianist & Composer</strong> 🎹.  
+  I'm a <strong>Software Engineer</strong> 💻 whoe blends technical expertise with a background as a <strong>Classical Pianist & Composer</strong> 🎹.  
   <br />
   <br />
   💼 Skilled in building responsive, maintainable web applications using modern JavaScript frameworks.  
